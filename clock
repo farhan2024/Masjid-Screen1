@@ -1,0 +1,19 @@
+
+{
+  "01/01/2020": {
+    "date": "01/01/2020",
+    "fajr_begins":"6:26",
+    "fajr_jamaah":"6:56",
+    "sunrise":"8:03",
+    "zuhr_begins":"12:09",
+    "zuhr_jamaah":"12:45",
+    "asr_1_begins":"1:46",
+    "asr_2_begins":"2:16",
+    "asr_jamaah":"2:45",
+    "maghrib_begins":"4:05",
+    "maghrib_jamaah":"4:12",
+    "isha_begins":"5:42",
+    "isha_jamaah":"7:30"
+  }
+  ...
+}
